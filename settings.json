@@ -28,9 +28,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5,
       "messages": [
-        "I'm a regular player",
+        "/login 882497",
         "Subscribe to Perzaan Gaming!",
         "I like to play Minecraft!"
       ]
