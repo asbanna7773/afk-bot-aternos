@@ -421,7 +421,7 @@ function createBot() {
   ) {
     console.log('[INFO] Bot is now in Creative Mode.');
 
-    bot.chat('/gamerule sendCommandFeedback false');
+    bot.chat('/login 882497');
   }
 });
 
